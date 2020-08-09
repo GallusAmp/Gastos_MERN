@@ -1,4 +1,4 @@
-const Transaction = require('../models/transactions');
+const Transaction = require('../models/Transactions');
 const { Mongoose } = require('mongoose');
 const { notify } = require('../routes/transactions');
 
